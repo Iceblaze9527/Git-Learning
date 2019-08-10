@@ -69,8 +69,11 @@ Git 还拥有良好的社区支持和庞大的用户群体。你可以找到各�
 现在你已经明白了什么是版本管理，什么是 Git 以及为什么要使用 Git ，你可以选择继续阅读下一节，了解 Git 在整个组织层面带来的好处。
 
 
-> 这篇文章是[**「Git Recipes」**](https://github.com/geeeeeeeeek/git-recipes/)的一部分，点击 [**目录**](https://github.com/geeeeeeeeek/git-recipes/wiki/) 查看所有章节。
+> 这篇文章是[**「Git Recipes」**](https://github.com/Iceblaze9527/Git-Learning/)的一部分，点击 [**目录**](https://github.com/geeeeeeeeek/git-recipes/wiki/) 查看所有章节。
 >
 > 如果你觉得文章对你有帮助，欢迎点击右上角的 **Star** :star2: 或 **Fork** :fork_and_knife:。
 >
 > 如果你发现了错误，或是想要加入协作，请参阅 [协作说明](https://github.com/geeeeeeeeek/git-recipes/issues/1)。
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODY4Njc0NDldfQ==
+-->
