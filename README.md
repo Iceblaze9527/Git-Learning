@@ -1,11 +1,10 @@
 # Git 菜单
 
- *高质量的 Git 中文教程，源于国外社区的优秀文章和个人实践*
- *credit to *
-
+ *credit to [童仲毅 (geeeeeeeeek@github)](https://github.com/geeeeeeeeek) for initial contents*
+ 
 ### 第1篇 果壳中的 Git
 
-- **第1章** [什么是 Git](https://github.com/geeeeeeeeek/git-recipes/wiki/1.1-%E6%9E%9C%E5%A3%B3%E4%B8%AD%E7%9A%84-Git)
+- **第1章** [Git简介](https://github.com/geeeeeeeeek/git-recipes/wiki/1.1-%E6%9E%9C%E5%A3%B3%E4%B8%AD%E7%9A%84-Git)
 
 ### 第2篇 从零搭建本地代码仓库
 
@@ -72,5 +71,5 @@
 >
 > 📅 *写于 2015 年*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjM4NzE2NF19
+eyJoaXN0b3J5IjpbLTE3MjI5NzE1ODJdfQ==
 -->
