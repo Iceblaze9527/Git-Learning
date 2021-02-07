@@ -1,9 +1,8 @@
 ## get rid of uncessary files
 You should add a line with:
 
-```
+```bash
 *.pyc 
-
 ```
 
 to the `.gitignore` file in the root folder of your git repository tree right after repository initialization.
@@ -12,9 +11,8 @@ As _ralphtheninja_ said, if you forgot to to do it beforehand, if you just add t
 
 If you are on a Linux system (or "parents&sons" like a MacOSX), you can quickly do it with just this one line command that you need to execute from the root of the repository:
 
-```
+```bash
 find . -name "*.pyc" -exec git rm -f "{}" \;
-
 ```
 
 This just means:
@@ -23,5 +21,5 @@ This just means:
 
 After `*.pyc` files deletion from git as tracked files, commit this change to the repository, and then you can finally add the `*.pyc` line to the `.gitignore` file.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjE5Nzg5MF19
+eyJoaXN0b3J5IjpbMTIzNjA1OTE1OCwtOTk2MTk3ODkwXX0=
 -->
